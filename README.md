@@ -20,7 +20,7 @@ This project aims to develop a predictive model for electricity prices. Accurate
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ishaaq48/ElectricityPricePrediction
+   git clone (https://github.com/ishaaq48/ElectricityPricePrediction.git)
 ## Install the required Python libraries:
       pip install -r requirements.txt
 ## Usage
